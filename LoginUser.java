@@ -1,16 +1,11 @@
-sljflsfj
-lsjflsjfsf
-s
-f
-sf
+public class LoginUser
+{
+	public static void main(String args[])
+	{
+		int i;
 
-jfhjgjgjggj
-
-
-fs
-f
-sf
-sf
-f
-s
-
+		for(i=0;i<=10;i++) {
+			System.out.println("Number: " + i);
+		}
+	}
+}
